@@ -1,0 +1,4 @@
+[submodule "OCA/ddmrp"]
+	path = OCA/ddmrp
+	url = git@github.com:OCA/ddmrp.git
+	branch = 18.0
